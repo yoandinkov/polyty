@@ -55,7 +55,9 @@
     "ci-info": "^1.6.0",
     "clean-css": "^4.2.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "vuepress": "^1.2.0"
+  },
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
