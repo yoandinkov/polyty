@@ -1,7 +1,7 @@
 FROM node:10-alpine
 COPY ./ /src
 WORKDIR /src
-RUN npm run docs:build
+RUN npm install && npm run docs:build
 
 FROM nginx-alpine
 RUN mkdir /src
