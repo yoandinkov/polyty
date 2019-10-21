@@ -1,5 +1,5 @@
 ## About
-_Polytical analysis of Youtube_
+_Political analysis of YouTube using Natural Language Processing, Machine Learning, Information Retrieval._
 
 ## Available projects
 * [Ideology detection](https://bias.polyty.com/)
